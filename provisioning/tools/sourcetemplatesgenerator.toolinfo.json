@@ -1,0 +1,10 @@
+{
+    "name" : "sourcetemplatesgenerator",
+    "title" : "Source template generator",
+    "description" : "Generates cite templates, like {{Lien web}}, {{Article}} and {{Ouvrage}} from an URL. Currently offer syntax for French Wikipedia. Extensible code allows to support more Wikimedia project and query specific information on specific websites.",
+    "url" : "http://tools.nasqueron.org/wikimedia/write/sourcetemplatesgenerator/",
+    "keywords" : "cite, citation, sources, template, generator, Lien web, Article, Ouvrage",
+    "author" : "Sébastien Santoro aka Dereckson",
+    "repository" : "https://github.com/dereckson/source-templates-generator"
+}
+

@@ -1,0 +1,9 @@
+{
+    "name" : "listreplace",
+    "title" : "List replace",
+    "description" : "Performs regexp replacement in a list. Join and split list items. Useful to clean disambiguation pages, to translate a  list from one language to another or improves a list formatting.",
+    "url" : "http://tools.nasqueron.org/lists/replace",
+    "keywords" : "list, regexp, regular expression, replace",
+    "author" : "Sébastien Santoro aka Dereckson",
+    "repository" : "https://github.com/nasqueron/tools.nasqueron.org/tree/master/lists"
+}
