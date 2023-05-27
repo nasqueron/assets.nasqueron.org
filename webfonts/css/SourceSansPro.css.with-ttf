@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "Source Sans Pro";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://assets.nasqueron.org/webfonts/SourceSansPro-italic-400.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Source Sans Pro";
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://assets.nasqueron.org/webfonts/SourceSansPro-italic-700.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://assets.nasqueron.org/webfonts/SourceSansPro-normal-400.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://assets.nasqueron.org/webfonts/SourceSansPro-normal-700.ttf) format("truetype");
+}
