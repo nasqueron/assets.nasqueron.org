@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: normal;
+  src: url(https://assets.nasqueron.org/webfonts/OpenSans/OpenSans-normal-300.ttf) format("truetype");
+}
